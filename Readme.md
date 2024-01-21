@@ -12,3 +12,4 @@
 - 6 Create internet shop cart
 - 7 Create an abstract class
 - 8 Create toString function using generics
+- 9 Create function to sort an array of objects by id
