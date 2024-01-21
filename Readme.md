@@ -11,3 +11,4 @@
 - 5 Create overlaod for method
 - 6 Create internet shop cart
 - 7 Create an abstract class
+- 8 Create toString function using generics
