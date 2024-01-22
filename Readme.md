@@ -13,3 +13,4 @@
 - 7 Create an abstract class
 - 8 Create toString function using generics
 - 9 Create function to sort an array of objects by id
+- 10 Create a function that regroups an array by a key
