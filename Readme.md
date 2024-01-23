@@ -15,4 +15,5 @@
 - 9 Create function to sort an array of objects by id
 - 10 Create a function that regroups an array by a key
 - 11 Create validation type for the form
-- 12 Create a decorator to the class
+- 12 Create a decorator for a class
+- 13 Create a decorator for a method
