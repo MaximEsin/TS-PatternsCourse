@@ -17,3 +17,5 @@
 - 11 Create validation type for the form
 - 12 Create a decorator for a class
 - 13 Create a decorator for a method
+
+**Examples of different patterns are in Patterns folder**
