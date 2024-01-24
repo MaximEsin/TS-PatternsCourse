@@ -3,6 +3,7 @@
     /* Language and Environment */
     "target": "ES2016",
     "experimentalDecorators": true,
+    "lib": ["dom", "es2016"],
 
     /* Modules */
     "module": "commonjs",
